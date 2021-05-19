@@ -4709,9 +4709,9 @@ resolve@1.1.7:
   languageName: node
   linkType: hard
 
-"ts-jest@npm:^24.1.0":
-  version: 24.1.0
-  resolution: "ts-jest@npm:24.1.0"
+"ts-jest@npm:24.3.0":
+  version: 24.3.0
+  resolution: "ts-jest@npm:24.3.0"
   dependencies:
     bs-logger: 0.x
     buffer-from: 1.x
@@ -4727,7 +4727,7 @@ resolve@1.1.7:
     jest: ">=24 <25"
   bin:
     ts-jest: cli.js
-  checksum: 460e0e0c4247de70e07dff5403b853113fec40e2dc8245b1d60b1ac60fbb3deb21b0f3c6ef34755ec69a547196c67f3d21d67ccbbd3e0522e922fefaccac86a3
+  checksum: 657ced9ab8336c0bf3c2168c891a261d1ecb9812855c23bc3784216b50b34a4c8468c76452bdf6242e955d734f362a755f71aef126ebe89be8e1124390743790
   languageName: node
   linkType: hard
 
@@ -5128,7 +5128,7 @@ typescript@^3.7.2:
     commander: ^6.0.0
     jest: ^24.8.0
     prettier: ^1.19.1
-    ts-jest: ^24.1.0
+    ts-jest: 24.3.0
     ts-node: ^9.1.1
     typescript: ^3.7.2
   bin:
