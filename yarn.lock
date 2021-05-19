@@ -459,10 +459,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^12.7.9":
-  version: 12.12.11
-  resolution: "@types/node@npm:12.12.11"
-  checksum: c11444fc194861e351bd2e14713b4cb462adc5cc121fa1bd54bee40175e55ff7634409406cf5ce4f3831be59b04beadcb6115733c3276914cfb01e98d7988d02
+"@types/node@npm:12.20.13":
+  version: 12.20.13
+  resolution: "@types/node@npm:12.20.13"
+  checksum: 4e0f02ec78b8d911595b20b9a7c3ac6c8e5f77ab5c57d0c14197fa021dec2c791469e1597b890f0d443f3809c908952e9ea56a2866d3cccf6076ff8a4579d969
   languageName: node
   linkType: hard
 
@@ -5124,7 +5124,7 @@ typescript@^3.7.2:
   resolution: "yarn-workspace-tools@workspace:."
   dependencies:
     "@types/jest": ^25.1.2
-    "@types/node": ^12.7.9
+    "@types/node": 12.20.13
     commander: ^6.0.0
     jest: ^24.8.0
     prettier: ^1.19.1
