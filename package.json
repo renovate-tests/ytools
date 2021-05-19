@@ -26,6 +26,6 @@
     "ytools": "./dist/index.js"
   },
   "dependencies": {
-    "commander": "^6.0.0"
+    "commander": "^7.0.0"
   }
 }
