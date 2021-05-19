@@ -363,15 +363,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@jest/types@npm:^25.1.0":
-  version: 25.1.0
-  resolution: "@jest/types@npm:25.1.0"
+"@jest/types@npm:^25.5.0":
+  version: 25.5.0
+  resolution: "@jest/types@npm:25.5.0"
   dependencies:
     "@types/istanbul-lib-coverage": ^2.0.0
     "@types/istanbul-reports": ^1.1.1
     "@types/yargs": ^15.0.0
     chalk: ^3.0.0
-  checksum: 95c6c21ca19d6372ed475427275de12354817aa10ef7519107bb8df73060b76dc6159353107907059975999cf7559ab1f99ad6bbbea1a5e59ba892aa7220f3dd
+  checksum: 33ad68320efb297c4bd98975105130e1b4096d631decfc5a093691e24f27fce0410b4a7c5a87b736873271ebc003e48e853529587e584b3152efca572139a4a3
   languageName: node
   linkType: hard
 
@@ -449,13 +449,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:^25.1.2":
-  version: 25.1.2
-  resolution: "@types/jest@npm:25.1.2"
+"@types/jest@npm:25.2.3":
+  version: 25.2.3
+  resolution: "@types/jest@npm:25.2.3"
   dependencies:
-    jest-diff: ^25.1.0
-    pretty-format: ^25.1.0
-  checksum: 846d4b589ef640e7d657c6cc8e80f24ef1ab00adeedf4e76303468465655f4e97806b3139ef9219f05cd9bdf019153f204aef251f7c51bbf32801783c9395180
+    jest-diff: ^25.2.1
+    pretty-format: ^25.2.1
+  checksum: fe92624fd7b3b5358ffba8e59108b484de1d01df08dfc66bb597d59d09900db1950717adb8d42ce5f81ba615fa0b8de55fd5446808d92f75b45e08fcbe4cec6e
   languageName: node
   linkType: hard
 
@@ -1338,10 +1338,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"diff-sequences@npm:^25.1.0":
-  version: 25.1.0
-  resolution: "diff-sequences@npm:25.1.0"
-  checksum: f408f221d34ee61197dc9942d3477666396acd09df57db851ec5a18fb3c410c677a683106673bd93417b900788175be538bc50e3599feb895a18b1f5580d7688
+"diff-sequences@npm:^25.2.6":
+  version: 25.2.6
+  resolution: "diff-sequences@npm:25.2.6"
+  checksum: 332484fc00f6beca726d8dbc13095f6006527002bef936a07b4e6bbec681fbaac484e1a7ea4e9ab0d53e375d1cde9e642c8cce31dfe6329cfdf8f01f26b17505
   languageName: node
   linkType: hard
 
@@ -2410,15 +2410,15 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-diff@npm:^25.1.0":
-  version: 25.1.0
-  resolution: "jest-diff@npm:25.1.0"
+"jest-diff@npm:^25.2.1":
+  version: 25.5.0
+  resolution: "jest-diff@npm:25.5.0"
   dependencies:
     chalk: ^3.0.0
-    diff-sequences: ^25.1.0
-    jest-get-type: ^25.1.0
-    pretty-format: ^25.1.0
-  checksum: 35254786c82c80c5a9ba0936371e0a0d8f5d960d36cca2300430003fdc115224b5c46b4bf1cfdae3287018b9edb6c407f7455ffa8480149f36120f8ba05a9dda
+    diff-sequences: ^25.2.6
+    jest-get-type: ^25.2.6
+    pretty-format: ^25.5.0
+  checksum: 14a2634ecb159a9a2f061239db1cea0c889e7a72ab05bd1fa799db30efca2ce79291372823f5e3468d9bc856f404f312e44e89c171eea8132b5835d12f71d0b3
   languageName: node
   linkType: hard
 
@@ -2478,10 +2478,10 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-get-type@npm:^25.1.0":
-  version: 25.1.0
-  resolution: "jest-get-type@npm:25.1.0"
-  checksum: b0abdbb4486caa4eadb357138bedd1d363bdee1284f3d76662d99e800ac473a1bd90ad8e42ba12f9a96a7c2452add8fbd9265758f1ea0b98a49a5017ed1d3d5d
+"jest-get-type@npm:^25.2.6":
+  version: 25.2.6
+  resolution: "jest-get-type@npm:25.2.6"
+  checksum: 6051fcb75cdaa8fad66fd5a1e91d2c1597e9ccc54eecd5cd489fd73a00e322d28cb5859b656a8224a41eddab0ecfb875df9ec62f545a76afa1a55d3ba97fba6d
   languageName: node
   linkType: hard
 
@@ -3759,15 +3759,15 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"pretty-format@npm:^25.1.0":
-  version: 25.1.0
-  resolution: "pretty-format@npm:25.1.0"
+"pretty-format@npm:^25.2.1, pretty-format@npm:^25.5.0":
+  version: 25.5.0
+  resolution: "pretty-format@npm:25.5.0"
   dependencies:
-    "@jest/types": ^25.1.0
+    "@jest/types": ^25.5.0
     ansi-regex: ^5.0.0
     ansi-styles: ^4.0.0
     react-is: ^16.12.0
-  checksum: 3577f509fdf682f60c671346ba9c50151e2e5d55f9e01022d2e527724195d28347def24ef5b3253eb34533e8689064bc7cd7eded683532984f219894ac8a3d81
+  checksum: f7cc631d51e22c809d429d20facfd886ba0b212d419d153467872f68688256c2c55563bf70e943b7347ec9180b41a1d19c4235dc171850f9d5382a52959c0245
   languageName: node
   linkType: hard
 
@@ -5123,7 +5123,7 @@ typescript@^3.7.2:
   version: 0.0.0-use.local
   resolution: "yarn-workspace-tools@workspace:."
   dependencies:
-    "@types/jest": ^25.1.2
+    "@types/jest": 25.2.3
     "@types/node": ^12.7.9
     commander: ^6.0.0
     jest: ^24.8.0

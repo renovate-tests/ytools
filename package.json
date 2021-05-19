@@ -6,7 +6,7 @@
   "repository": "https://github.com/devshorts/ytools",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^25.1.2",
+    "@types/jest": "25.2.3",
     "@types/node": "^12.7.9",
     "jest": "^24.8.0",
     "prettier": "^1.19.1",
